@@ -1,0 +1,1 @@
+This concept uses original CSS-generated artwork, so no separate image downloads are required. Add licensed project imagery here if needed.
